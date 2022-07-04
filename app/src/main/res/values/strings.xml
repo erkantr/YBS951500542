@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">YBS95150054</string>
+    <string name="ara">Ara</string>
+    <string name="e_posta">E-Posta Gönder</string>
+    <string name="benim_sehrim">Benim Şehrim</string>
+    <string name="donem_dersleri">Dönem Dersleri</string>
+</resources>
